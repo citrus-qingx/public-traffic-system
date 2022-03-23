@@ -116,7 +116,7 @@
 
   3. 司机线路表的问题
 
-     ![image-20220103194919416](README.assets\image-20220103194919416.png)
+     ![image-20220103194919416](https://github.com/citrus-qingx/public-traffic-system/blob/master/README.assets/image-20220103194919416.png)
 
      为解决上述问题而新建了司机线路表。此表的两列都为外码。
 
