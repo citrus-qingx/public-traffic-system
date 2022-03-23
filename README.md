@@ -84,15 +84,15 @@
 
 - 查询功能
 
-  ![image-20220103210713267](README.assets\image-20220103210713267.png)
+  ![image-20220103210713267](https://github.com/citrus-qingx/public-traffic-system/blob/master/README.assets/image-20220103210713267.png)
 
-  ![image-20220103210901873](README.assets\image-20220103210901873.png)
+  ![image-20220103210901873](https://github.com/citrus-qingx/public-traffic-system/blob/master/README.assets/image-20220103210901873.png)
 
   
 
 - 录入功能
 
-  ![image-20220103211043091](README.assets\image-20220103211043091.png)
+  ![image-20220103211043091](https://github.com/citrus-qingx/public-traffic-system/blob/master/README.assets/image-20220103211043091.png)
 
   
 
@@ -128,7 +128,7 @@
 
   1. 赋予用户权限不生效
 
-     通过sql语句查看角色权限正常，但在前端用户调用时不生效。查询资料发现将角色赋予用户后初始需要启用角色权限。![image-20220103200625999](README.assets\image-20220103200625999.png)
+     通过sql语句查看角色权限正常，但在前端用户调用时不生效。查询资料发现将角色赋予用户后初始需要启用角色权限。![image-20220103200625999](https://github.com/citrus-qingx/public-traffic-system/blob/master/README.assets/image-20220103200625999.png)
 
      
 
@@ -136,7 +136,7 @@
 
      以队长为例，创建了队长_司机视图，该视图包含了该队长车队下的司机信息。而由于司机信息由司机表和司机线路表构成，视图中包含两个表的信息，可以查询但不能插入或修改。
 
-     后续将插入时插入的司机只能为该队长车队下的司机这一限制在java中实现。![image-20220103201828020](README.assets\image-20220103201828020.png)
+     后续将插入时插入的司机只能为该队长车队下的司机这一限制在java中实现。![image-20220103201828020](https://github.com/citrus-qingx/public-traffic-system/blob/master/README.assets/image-20220103201828020.png)
 
      
 
